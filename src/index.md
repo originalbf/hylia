@@ -1,9 +1,9 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Lets go round the moon.....
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+metaDesc: 'Welcome to my home on the intertubes'
 socialImage: ''
 ---
 
